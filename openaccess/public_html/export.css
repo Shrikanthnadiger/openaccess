@@ -1,0 +1,12 @@
+#exceltable th, #exceltable td{
+    padding: 7px; 
+}
+#exceltable {
+    border: 1px solid black;
+    width: fit-content;
+}
+#exceltable th, #exceltable td {
+    border-left: thin solid;
+    border-top: thin solid; 
+    border-bottom: thin solid;
+}
